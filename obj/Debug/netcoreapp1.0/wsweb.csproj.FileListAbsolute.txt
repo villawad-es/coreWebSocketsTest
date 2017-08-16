@@ -1,0 +1,9 @@
+D:\Users\DanielVV\Downloads\New folder\wsweb-master\wsweb\bin\Debug\netcoreapp1.0\wsweb.deps.json
+D:\Users\DanielVV\Downloads\New folder\wsweb-master\wsweb\bin\Debug\netcoreapp1.0\wsweb.runtimeconfig.json
+D:\Users\DanielVV\Downloads\New folder\wsweb-master\wsweb\bin\Debug\netcoreapp1.0\wsweb.runtimeconfig.dev.json
+D:\Users\DanielVV\Downloads\New folder\wsweb-master\wsweb\bin\Debug\netcoreapp1.0\wsweb.dll
+D:\Users\DanielVV\Downloads\New folder\wsweb-master\wsweb\bin\Debug\netcoreapp1.0\wsweb.pdb
+D:\Users\DanielVV\Downloads\New folder\wsweb-master\wsweb\obj\Debug\netcoreapp1.0\wsweb.csprojResolveAssemblyReference.cache
+D:\Users\DanielVV\Downloads\New folder\wsweb-master\wsweb\obj\Debug\netcoreapp1.0\wsweb.AssemblyInfo.cs
+D:\Users\DanielVV\Downloads\New folder\wsweb-master\wsweb\obj\Debug\netcoreapp1.0\wsweb.dll
+D:\Users\DanielVV\Downloads\New folder\wsweb-master\wsweb\obj\Debug\netcoreapp1.0\wsweb.pdb
